@@ -1,0 +1,23 @@
+"life-replay-ai/
+│
+├── apps/
+│   ├── web/                 # Next.js frontend
+│   └── api/                 # FastAPI backend
+│
+├── packages/
+│   ├── shared/
+│   └── ui/
+│
+├── infrastructure/
+│   ├── docker/
+│   └── database/
+│
+├── docs/
+│
+├── .github/
+│   └── workflows/
+│
+├── docker-compose.yml
+├── README.md
+└── .env.example"
+ https://chatgpt.com/c/6a2e090a-9c00-83e8-965c-dd616d906af0#:~:text=life%2Dreplay%2Dai/,md%0A%E2%94%94%E2%94%80%E2%94%80%20.env.example
