@@ -1,0 +1,12 @@
+apps/api/
+│
+├── app/
+│   ├── main.py
+│   ├── database.py
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   └── schemas/
+│
+├── requirements.txt
+└── Dockerfile
