@@ -1,0 +1,12 @@
+apps/web/
+│
+├── app/
+│   ├── page.tsx
+│   ├── timeline/
+│   ├── memories/
+│   └── chat/
+│
+├── components/
+├── lib/
+├── public/
+└── package.json
