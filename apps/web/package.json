@@ -1,1 +1,15 @@
 
+{
+  "scripts": {
+    "start": "next start -H 0.0.0.0 -p 8080",
+    "build": "next build"
+  },
+  "dependencies": {
+    "next": "15.0.0",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5"
+  }
+}
